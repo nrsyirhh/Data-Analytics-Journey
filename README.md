@@ -6,8 +6,6 @@ Welcome to my Data Analytics learning tracker! I am starting this journey with z
 
 ### Progress Tracker
 
-| Date | Project Name | What I Did |
+| Date | Project Name & Progress | What I Did |
 | :--- | :--- | :--- |
-| 2026/08/26 | [Netflix Drama Datasets](./netflix-drama-datasets) | Day 1: Set up my GitHub repository and downloaded the raw Netflix dataset. Started exploring the columns to understand the information available. |
-| YYYY/MM/DD | [Netflix Drama Datasets](./netflix-drama-datasets) | Example for Day 2: Cleaned the dataset by removing duplicates, handling missing values, and formatting date columns correctly. |
-| YYYY/MM/DD | [Netflix Drama Datasets](./netflix-drama-datasets) | Example for Day 3: Imported the clean data into Power BI and created an initial dashboard visualizing the release trends of dramas over the years. |
+| 2026/08/26 <br><br> YYYY/MM/DD <br><br> YYYY/MM/DD | [Netflix Drama Datasets](./netflix-drama-datasets) <br> **Day 1** <br><br> **Day 2** <br><br> **Day 3** | Set up GitHub repository and downloaded the raw Netflix dataset. <br><br> Cleaned the dataset by removing duplicates and handling missing values. <br><br> Imported the clean data into Power BI to create the first visualization. |
